@@ -1,0 +1,497 @@
+
+.banner{
+    padding: 10px 10px;
+    border:1px solid  #ffcc99;
+    background-color:#f2f2f2;
+    border-radius:2px;
+}
+.banner1{
+    margin-top: 30px;
+    padding: 1px 10px;
+    border:1px solid  #ffcc66;
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+    background-color:#ffcc66;
+    width:60%;
+    margin-left:20%;
+}
+.banner2{
+    margin-top: 25px;
+    padding: 1px 10px;
+    border:1px solid  #ffcc66;
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+    background-color:#ffcc66;
+    width:29%;
+    display: inline-block;
+    margin-left:20%;
+}
+.bannnerOld{
+    position:relative;
+    left:20%;
+    text-align:center;
+    margin-top:20px;
+    width:60%;
+    padding: 10px 10px;
+    border:2px solid  #ffd633;
+    background-color:#ffd633;
+    border-radius:2px;
+}
+.bannerView{
+    position:relative;
+    left:10%;
+    text-align:center;
+    margin-top:20px;
+    width:80%;
+    padding: 10px 10px;
+    border:2px solid  #ffd633;
+    background-color:#ffd633;
+    border-radius:2px;
+}
+.btn_none{
+    border:none;
+    background-color:#fff;
+}
+.btn_no{
+    border:none;
+    background-color:#fff;
+}
+.btn_none:hover{
+    cursor:pointer;
+    color: #ffd633
+}
+.btn_info{
+    border-radius: 4px;
+    background: #6CC3D5;
+    border-color: #6CC3D5;
+    color:#fff;
+    border:1px solid transparent;
+    padding:3px;
+    width:80px;
+    height:40px
+}
+.btn_primary{
+    border-radius: 4px;
+    background: #FF7851;
+    border-color: #FF7851;
+    color:#fff;
+    border:1px solid transparent;
+    padding:3px;
+    width:80px;
+    height:40px
+}
+.btn_out{
+    position: absolute;
+    top:-100%;
+    right:3%;
+    background: #593196 !important;
+    color:#fff;
+    border:#593196 !important;
+    width:8%;
+    height:70%;
+    border-radius: 4px
+}
+.btn_pic{
+    border-radius: 4px;
+    background: #66cc66;
+    border-color: #66cc66;
+    color:#fff;
+    border:1px solid transparent;
+    padding:3px 5px;
+    margin-top:10px;
+    height:40px;
+    width:100%
+}
+.boxStyle{
+    position:relative;
+    left:20%;
+    text-align:center;
+    width:60%;
+    margin-bottom:20px;
+    padding:30px;
+    border:1px solid   #ffcc99;
+    border-radius:2px;
+    background-color: #fff
+}
+.boxStyle1{
+    position:relative;
+    left:20%;
+    text-align:center;
+    width:60%;
+    margin-bottom:5px;
+    padding:9px;
+    border:1px solid   #ffcc66;
+    border-bottom-right-radius:6px;
+    border-bottom-left-radius:6px;
+    background-color: #fff
+}
+.boxStyle2{
+    position:relative;
+    left:20%;
+    text-align:center;
+    width:29%;
+    margin-bottom:5px;
+    padding:15px;
+    border:1px solid #ffcc66;
+    border-bottom-right-radius:6px;
+    border-bottom-left-radius:6px;
+    background-color: #fff;
+    display:inline-block
+    }
+
+.box{
+    padding:20px;
+    border:1px solid   #ffcc99;
+    border-radius:2px;
+    height:100%;
+    background-color: #fff
+}
+.boxView{
+    position:relative;
+    margin-bottom:20px;
+    padding:30px;
+    border:1px solid  #ffd633;
+    border-radius:2px;
+    background-color: #fff
+
+}
+.buttonRed{
+    border-radius:4px;
+    height: 30px;
+    width: 10%;
+    border: none;
+    background-color: red;
+    border-color: red;
+    color: #fff;
+}
+.buttonGreen{
+    border-radius: 4px;
+    height: 30px;
+    width: 10%;
+    border: none;
+    background-color:green;
+    border-top-color:green;
+    color:white;
+}
+.messageBannerStyle{
+        position: relative;
+        left: 25%;
+        text-align:center;
+        margin-top:20px;
+        width:50%;
+        vertical-align: middle;
+        height: 40px;
+        padding: 10px 10px;
+        border:2px solid  #693E82;
+        background-color:#693E82;
+        }
+        
+.messageBoxStyle{
+        position: relative;
+        left: 25%;
+        width:50%;
+        margin-bottom:20px;
+        border:2px solid  #693e82;
+        }
+.checkRight{
+    width:70%;
+    position: relative;
+    left: -15%;
+    outline:none;
+}
+.checkWrong{
+    width:70%;
+    position: relative;
+    left:60%;
+    margin-right: 20px;
+    outline:none;
+    top:-20px;
+}
+.checkView{
+    width:70%;
+    position: relative;
+    outline:none;
+}
+.checkNima{
+    width:30.76px;
+    position: relative;
+    left:80%;
+    margin-right: 20px;
+    outline:none;
+    top:-20px;
+}
+.check_input{
+    position: relative;
+    width:40px;
+}
+.checkStyle{
+    position:absolute;
+    right: 15%;
+    margin-top:10px;
+    width: 35px;
+    height:35px
+}
+.ContainerStyle{
+    border: 1px solid #ffcc99;
+    border-top-left-radius:0px;
+    border-bottom-left-radius:0px;
+    border-top-right-radius:3px;
+    border-bottom-right-radius:3px;
+    font-family: Microsoft soft;
+    font-size: 16px;
+    width: 96%;
+}
+.font {
+    font-family: 'Arial Negreta', 'Arial Normal', 'Arial';
+    font-weight: 500;
+    font-style: normal;
+    font-size: 12px;
+    color: #666666;
+}
+.groupStyles {
+    border: 2px dotted blue;
+    color: white;
+    background: blue;
+    padding: 5px 0px;
+    display: flex;
+};
+
+.input{
+    margin: 30px;
+    outline-style: none ;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-family: Microsoft soft;
+    width: 70%;
+    padding: 10px 10px;
+    font-size: 24px;  
+}
+.inputSignIn1{
+    margin-top: 80px;
+    margin-bottom: 10px;
+    margin-left: 35%;
+    outline-style: none ;
+    border: 1px solid #693E82;
+    border-radius: 3px;
+    font-family: Microsoft soft;
+    width: 30%;
+    padding: 10px 10px;
+    font-size: 16px;
+}
+.inputSignIn2{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 35%;
+    outline-style: none ;
+    border: 1px solid #693E82;
+    border-radius: 3px;
+    font-family: Microsoft soft;
+    width: 30%;
+    padding: 10px 10px;
+    font-size: 16px;
+}
+.inputStyle{
+    margin: 30px;
+    outline-style: none ;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-family: Microsoft soft;
+    width: 70%;
+    padding: 10px 10px;
+    font-size: 16px;
+}
+.inputStyle1{
+    margin-bottom: 3px;
+    outline-style: none ;
+    border: 1px solid #ccc;
+    border-top-right-radius:3px;
+    border-bottom-right-radius:3px;
+    font-family: Microsoft soft;
+    padding: 10px 10px;
+    font-size: 16px;
+    width: 70%;
+}
+.inputCon{
+    margin-bottom: 30px;
+    outline-style: none ;
+    border: 1px solid #ffcc99;
+    border-top-left-radius:0px;
+    border-bottom-left-radius:0px;
+    border-top-right-radius:3px;
+    border-bottom-right-radius:3px;
+    font-family: Microsoft soft;
+    padding: 10px 10px;
+    font-size: 16px;
+    width: 100%;
+    height:42px
+}
+.inputCon1{
+    margin-bottom: 2px;
+    outline-style: none ;
+    border: 1px solid #ccc;
+    border-top-right-radius:3px;
+    border-bottom-right-radius:3px;
+    font-family: Microsoft soft;
+    padding: 10px 10px;
+    font-size: 16px;
+    width: 100%;
+}
+.inputUp{
+    margin-bottom: 10px;
+    outline-style: none ;
+    border: 1px solid #ffcc99;
+    border-top-left-radius:0px;
+    border-bottom-left-radius:0px;
+    border-top-right-radius:3px;
+    border-bottom-right-radius:3px;
+    font-family: Microsoft soft;
+    padding: 10px 10px;
+    font-size: 16px;
+    width: 100%;
+    height:42px
+}
+.select{
+    margin-bottom: 30px;
+    outline-style: none ;
+    border: 1px solid #ffcc99;
+    border-top-left-radius:0px;
+    border-bottom-left-radius:0px;
+    border-top-right-radius:3px;
+    border-bottom-right-radius:3px;
+    font-family: Microsoft soft;
+    font-size: 16px;
+    width: 96%;
+    height:42px
+}
+.inputView{
+    margin-bottom: 20px;
+    outline-style: none ;
+    border: 1px solid #ffcc99;
+    border-radius: 3px;
+    padding: 6px 6px;
+    width: 100%;
+    font-family:  Microsoft soft ;
+    height:42px;
+    border-top-left-radius:0px;
+    border-bottom-left-radius:0px;
+    border-top-right-radius:3px;
+    border-bottom-right-radius:3px;
+};
+
+input:focus{
+    border-color: #66afe9;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6)
+}
+.labelStyle{ 
+    background: #F2F2F2;
+    text-align: center;
+    border:1px solid #ffcc99;
+    border-top-left-radius:10px;
+    border-bottom-left-radius: 10px;
+    height:42px;
+    vertical-align: middle;
+    /* display: inline-flex;
+    align-items: center;
+    justify-content: center; */
+}
+.labelStyle1{ 
+    margin-top:3px;
+    background: #ccc;
+    text-align: center;
+    border:1px solid #ccc;
+    border-top-left-radius:10px;
+    border-bottom-left-radius: 10px;
+    font-family: Microsoft soft;
+    font-size: 16px;
+    width:20%;
+    height:46px;
+    vertical-align:middle ;
+    line-height:43px
+}
+.labelStyle2{ 
+    margin-top:3px;
+    background: #ccc;
+    text-align: center;
+    border:1px solid #ccc;
+    border-top-left-radius:10px;
+    border-bottom-left-radius: 10px;
+    font-family: Microsoft soft;
+    font-size: 16px;
+    height:100%;
+    vertical-align:middle ;
+    line-height:43px
+}
+.labelView{
+    position:relative;
+    left: 10% ;
+};
+.labelShow{
+    background: #F2F2F2;
+    width:124px;
+    height:40px;
+    text-align: center;
+    border:2px solid #ffcc99;
+    border-top-left-radius:10px;
+    border-bottom-left-radius: 10px;
+    display:inline-block;   
+}
+.textareaStyle{
+    margin-bottom: 30px;
+    outline-style: none;
+    font-family: Microsoft soft;
+    font-size: 16px;
+    width: 100%;  
+    height: 42px;
+    border:1px solid #ffcc99;
+    border-top-left-radius : 0px;
+    border-top-right-radius : 4px;
+    border-bottom-left-radius:  4px;
+    border-bottom-right-radius: 4px
+}
+.textareaInput{
+    margin-bottom: 30px;
+    outline-style: none;
+    font-family: Microsoft soft;
+    font-size: 16px;
+    width: 100%;  
+    height: 100%;
+    border:1px solid #ffcc99;
+    border-top-left-radius : 0px;
+    border-top-right-radius : 4px;
+    border-bottom-left-radius:  4px;
+    border-bottom-right-radius: 4px
+}
+.textarea{
+    margin-bottom: 10px;
+    outline-style: none;
+    font-family: Microsoft soft;
+    font-size: 16px;
+    width: 100%;  
+    height: 42px;
+    border:1px solid #ffcc99;
+    border-top-left-radius : 0px;
+    border-top-right-radius : 4px;
+    border-bottom-left-radius:  4px;
+    border-bottom-right-radius: 4px
+}
+.tipStyle{
+    margin-left:20px
+ 
+}
+.image{
+    position: relative;
+    left:5%;
+    width:90%;
+}
+.msg:hover{
+    cursor: pointer
+}
+.msg:hover .hiden{
+    cursor: pointer;
+    display: block
+}
+.hiden {
+    display: none
+}

@@ -1,0 +1,24 @@
+
+.input{
+    margin: 30px;
+    outline-style: none ;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-family: Microsoft soft;
+    width: 70%;
+    padding: 10px 10px;
+    font-size: 20px;
+    
+}
+.inputHaha{
+    margin-bottom: 20px;
+    outline-style: none ;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 6px 6px;
+    width: 70%;
+    font-family:  Microsoft soft ;
+    position:relative;
+    left: 15% 
+};
+
